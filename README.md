@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi, I'm Michael! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a growing skill set and a love for learning new technologies. Here's a little about me:
 
