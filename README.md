@@ -17,5 +17,8 @@ Feel free to connect with me or explore my work:
 - **GitHub:** [MichaelCM7](https://github.com/MichaelCM7)
 - **Email:** [michael.mbugua@strathmore.edu](michael.mbugua@strathmore.edu)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelCM7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCM7&layout=compact&theme=radical)
+
 Thanks for stopping by! 🙏
 
