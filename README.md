@@ -3,11 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate developer with a growing skill set and a love for learning new technologies. Here's a little about me:
 
 ## 🛠️ Skills
-- **Programming Languages:** ![Java](https://img.shields.io/badge/Code-Java-red?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)
+- **Programming Languages:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30"/> Java
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30"/> HTML
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30"/> CSS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> JavaScript
 - **Learning:** React 
 
 ## 🌱 What I'm Up To
