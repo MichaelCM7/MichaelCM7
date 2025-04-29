@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a growing skill set and a love for learning new technologies. Here's a little about me:
 
 ## 🛠️ Skills
-- **Programming Languages:** Java, HTML, CSS, JavaScript
+- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
 - **Learning:** React 
 
 ## 🌱 What I'm Up To
