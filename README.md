@@ -3,7 +3,11 @@
 Welcome to my GitHub profile! I'm a passionate developer with a growing skill set and a love for learning new technologies. Here's a little about me:
 
 ## 🛠️ Skills
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
+- **Programming Languages:** ![Java](https://img.shields.io/badge/Code-Java-red?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)
 - **Learning:** React 
 
 ## 🌱 What I'm Up To
