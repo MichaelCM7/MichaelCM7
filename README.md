@@ -1,24 +1,39 @@
-# Hi, I'm Michael! 😁
+# Michael Mbugua
+**Full Stack Developer | Problem Solver**
 
-Welcome to my GitHub profile! I'm a passionate developer with a growing skill set and a love for learning new technologies. Here's a little about me:
+Welcome to my GitHub profile. I am a dedicated developer focused on building clean, user-friendly web interfaces and exploring modern software frameworks. I prioritize writing maintainable code and continuously expanding my technical repertoire.
 
-## 🛠️ Skills
-- **Programming Languages:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> 
-- **Learning:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30"/>
+---
 
-## 🌱 What I'm Up To
-Currently, I'm diving into React to expand my web development expertise. I enjoy building clean, user-friendly web interfaces and exploring new tools and frameworks.
+### Technical Skills
 
-## 📂 Projects
-Check out some of my repositories to see what I'm working on! I aim to keep improving and experimenting with new ideas.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, JavaScript, HTML5, CSS3 |
+| **Frameworks** | React (Currently Learning) |
+| **Tools** | Git, GitHub |
 
-## 📫 Let's Connect
-Feel free to connect with me or explore my work:
-- **GitHub:** [MichaelCM7](https://github.com/MichaelCM7)
-- **Email:** [michael.mbugua@strathmore.edu](michael.mbugua@strathmore.edu)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelCM7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCM7&layout=compact&theme=radical)
+### Current Focus
+I am currently deepening my expertise in **React** to build more dynamic and scalable front-end applications. My goal is to bridge the gap between robust back-end logic and intuitive user experiences.
 
-Thanks for stopping by! 🙏
+### Featured Projects
+I am actively building and refining repositories that showcase my growth in software architecture and design. 
+* [View all repositories](https://github.com/MichaelCM7?tab=repositories)
 
+---
+
+### GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelCM7&show_icons=true&theme=radical" alt="Michael's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCM7&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### Contact Information
+I am always open to collaborating on interesting projects or discussing new technologies.
+
+* **GitHub**: [github.com/MichaelCM7](https://github.com/MichaelCM7)
+* **Email**: [michael.mbugua@strathmore.edu](mailto:michael.mbugua@strathmore.edu)
