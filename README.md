@@ -2,7 +2,7 @@
 ### Computer Science Major | 3rd Year | Strathmore University
 **Full Stack Developer | Problem Solver**
 
-Welcome to my GitHub profile. I am a dedicated developer focused on building clean, user-friendly web interfaces and exploring modern software frameworks. I prioritize writing maintainable code and continuously expanding my technical repertoire.
+Welcome to my GitHub profile. I am a dedicated developer focused on building clean, user-friendly web interfaces and exploring modern software frameworks. I prioritise writing simple and maintainable code and continuously expanding my technical abilities.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I am a dedicated developer focused on building cle
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, JavaScript, HTML5, CSS3 |
+| **Languages** | Java, Python, JavaScript, HTML5, CSS3, PHP |
 | **Frameworks** | React (Currently Learning) |
 | **Databases** | MariaDB, MySQL, MongoDB |
 | **Tools** | Git, GitHub |
