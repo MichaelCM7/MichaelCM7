@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I am a dedicated developer focused on building cle
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Python, JavaScript, HTML5, CSS3, PHP |
-| **Frameworks** | React (Currently Learning) |
+| **Frameworks** | React | TypeScript (Currently Learning) |
 | **Databases** | MariaDB, MySQL, MongoDB |
 | **Tools** | Git, GitHub |
 
