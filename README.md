@@ -10,8 +10,8 @@ Welcome to my GitHub profile. I am a dedicated developer focused on building cle
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, JavaScript, HTML5, CSS3, PHP, NodeJS |
-| **Frameworks** | React, TailwindCSS, ExpressJS, TypeScript (Currently Learning) |
+| **Languages** | Java, Python, JavaScript, HTML5, CSS3, PHP, NodeJS, Kotlin (Currently Learning) |
+| **Frameworks** | React, TailwindCSS, ExpressJS, TypeScript, Pytorch (Currently Learning) |
 | **Databases** | MariaDB, MySQL, MongoDB |
 | **Tools** | Git, GitHub, Render |
 
